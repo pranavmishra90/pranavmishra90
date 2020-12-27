@@ -6,3 +6,5 @@
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=pranavmishra90&show_icons=true&include_all_commits=true)](https://github.com/pranavmishra90/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavmishra90&layout=compact)](https://github.com/pranavmishra90/github-readme-stats)
+
+<img referrerpolicy="no-referrer-when-downgrade" src="https://matomo.drpranavmishra.com/matomo.php?idsite=3&amp;rec=1&amp;action_name=Github+Profile" style="border:0" alt="" />
