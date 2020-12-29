@@ -5,6 +5,8 @@
 Visit my personal website at www.drpranavmishra.com
 
 <p align='left'> You can view my resume <a href='https://www.drpranavmishra.com/wp-content/uploads/cv/Pranav%20Mishra%20Curriculum%20Vitae.pdf' target=_blank><u>here</u>.</a></p>
+
+
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=pranavmishra90 alt=pranavmishra90 /> </p>
 
