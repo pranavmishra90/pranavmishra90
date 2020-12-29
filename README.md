@@ -4,7 +4,7 @@
 
 Visit my personal website at www.drpranavmishra.com
 
-<p align='left'> You can view my resume <a href='https://www.drpranavmishra.com/wp-content/uploads/cv/Pranav%20Mishra%20Curriculum%20Vitae.pdf' target=_blank><u>here</u>.</a></p>
+<p align='left'> You can view my <a href='https://www.drpranavmishra.com/curriculum-vitae/?mtm_campaign=Viewed-CV&mtm_source=github&mtm_cid=viewed-cv&mtm_group=CV' target=_blank>curriculum vitae (resume) </a>here.</p>
 
 
 ## Some of my Github Stats
