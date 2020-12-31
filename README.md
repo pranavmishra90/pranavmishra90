@@ -2,7 +2,7 @@
 
 [![Github Badge](https://img.shields.io/badge/-pranavmishra90-grey?style=flat&logo=github&logoColor=white&link=https://github.com/pranavmishra90/)](https://www.github.com/pranavmishra90/) [![Twitter Badge](https://img.shields.io/badge/-drpranavmishra-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/drpranavmishra/)](https://www.twitter.com/drpranavmishra/) [![Linkedin Badge](https://img.shields.io/badge/-drpranavmishra-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/drpranavmishra/)](https://www.linkedin.com/in/drpranavmishra/)  
 
-Visit my personal website at www.drpranavmishra.com
+Visit my personal website at <a href='https://www.drpranavmishra.com/?mtm_campaign=Arriving&mtm_source=Github&mtm_placement=github-profile'>www.drpranavmishra.com</a>
 
 <p align='left'> You can view my <a href='https://www.drpranavmishra.com/curriculum-vitae/?mtm_campaign=Viewed-CV&mtm_source=github&mtm_cid=viewed-cv&mtm_group=CV' target=_blank>curriculum vitae (resume) </a>here.</p>
 
