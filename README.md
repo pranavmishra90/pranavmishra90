@@ -8,7 +8,7 @@ Visit my personal website at www.drpranavmishra.com
 
 
 ## Stats
-<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=pranavmishra90&badges=3&branding=false&style=--header-bg-color:%23000;--name-font-size:%2020px;" width="400" />
+<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=pranavmishra90&badges=3&branding=false&style=--header-bg-color:%23FFF;--name-font-size:%2020px;" width="400" />
 
 
 
