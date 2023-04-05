@@ -6,6 +6,8 @@ Visit my personal website at www.drpranavmishra.com
 
 <p align='left'> You can view my resume <a href='https://www.drpranavmishra.com/wp-content/uploads/cv/Pranav%20Mishra%20Curriculum%20Vitae.pdf' target=_blank><u>here</u>.</a></p>
 
+My [PGP public key](./pgp/pranav-mishra-public.key) is available for import / verification.
+
 
 ## Stats
 <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=pranavmishra90&badges=3&branding=false&style=--header-bg-color:%23000;--badge-text-color:%23fff;--name-font-size:%2020px;" width="400" />
