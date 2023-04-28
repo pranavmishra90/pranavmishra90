@@ -13,11 +13,7 @@ My [PGP public key](./pgp/pranav-mishra-public.key) is available for import / ve
 <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=pranavmishra90&badges=3&branding=false&style=--header-bg-color:%23000;--badge-text-color:%23fff;--name-font-size:%2020px;" width="400" />
 
 
-
-
-
-
-[![Github stats](https://github-readme-stats.vercel.app/api?username=pranavmishra90&show_icons=true&include_all_commits=true)](https://github.com/pranavmishra90/github-readme-stats)
+[![Pranav's GitHub stats](https://github-readme-stats-pm0102.vercel.app/api?username=pranavmishra90)](https://github.com/pranavmishra90/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavmishra90&layout=compact)](https://github.com/pranavmishra90/github-readme-stats)
 <p align=left> <img src=https://komarev.com/ghpvc/?username=pranavmishra90 alt=pranavmishra90 /> </p>
