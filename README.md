@@ -12,6 +12,7 @@ My [PGP public key](./pgp/pranav-mishra-public.key) is available for import / ve
 
 ## Stats
 If you're anything like me, you like to view stats "just because". It doesn't change anything or impact your decision making. But it is fun to look at.
+
 [![Pranav's GitHub Stats](https://github-readme-stats-pm0102.vercel.app/api?username=pranavmishra90)](https://github.com/pranavmishra90/github-readme-stats)
 
 [![Pranav's WakaTime Stats](https://github-readme-stats-pm0102.vercel.app/api/wakatime?username=pranavmishra90)](https://github.com/pranavmishra90/github-readme-stats)
