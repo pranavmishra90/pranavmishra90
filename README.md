@@ -13,9 +13,9 @@ My [PGP public key](./pgp/pranav-mishra-public.key) is available for import / ve
 ## Stats
 If you're anything like me, you like to view stats "just because". It doesn't change anything or impact your decision making. But it is fun to look at.
 
-[![Pranav's GitHub Stats](https://github-readme-stats-pm0102.vercel.app/api?username=pranavmishra90)](https://github.com/pranavmishra90/github-readme-stats)
+<figure><embed src="https://wakatime.com/share/@pranavmishra90/ba42389a-e04d-4f08-95df-043e86abdb00.svg"></embed></figure>
 
-[![Pranav's WakaTime Stats](https://github-readme-stats-pm0102.vercel.app/api/wakatime?username=pranavmishra90)](https://github.com/pranavmishra90/github-readme-stats)
+![Languages](https://wakatime.com/share/@pranavmishra90/9b65d84c-038a-479c-9194-f1f1f55550a9.svg)
 <!-- Self-hosted api is not pulling -->
 
 <!-- [![Top Langs](https://github-readme-stats-pm0102.vercel.app/api/top-langs/?username=pranavmishra90&layout=compact&langs_count=6)](https://github.com/pranavmishra90/github-readme-stats)
