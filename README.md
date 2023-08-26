@@ -1,11 +1,12 @@
 ## Welcome to my GitHub Profile
 
-[![Github Badge](https://img.shields.io/badge/-pranavmishra90-grey?style=flat&logo=github&logoColor=white&link=https://github.com/pranavmishra90/)](https://www.github.com/pranavmishra90/) [![Twitter Badge](https://img.shields.io/badge/-drpranavmishra-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/drpranavmishra/)](https://www.twitter.com/drpranavmishra/) [![Linkedin Badge](https://img.shields.io/badge/-drpranavmishra-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/drpranavmishra/)](https://www.linkedin.com/in/drpranavmishra/)  
-
 Visit my personal website at www.drpranavmishra.com
 
-<p align='left'> You can view my resume <a href='https://www.drpranavmishra.com/wp-content/uploads/cv/Pranav%20Mishra%20Curriculum%20Vitae.pdf' target=_blank><u>here</u>.</a></p>
+My academic curriculum vitae is written in LaTeX / BibLaTeX and is automatically generated GitHub Actions [pranavmishra90/Curriculum-Vitae_Pranav-Mishra](https://github.com/pranavmishra90/Curriculum-Vitae_Pranav-Mishra) [![Publish LaTeX CV as PDF](https://github.com/pranavmishra90/Curriculum-Vitae_Pranav-Mishra/actions/workflows/save_pdf.yml/badge.svg)](https://github.com/pranavmishra90/Curriculum-Vitae_Pranav-Mishra/actions). You can view the latest version at [Pranav Mishra CV (PDF)](https://github.com/pranavmishra90/Curriculum-Vitae_Pranav-Mishra/raw/pdf/pranav_kumar_mishra_cv.pdf)
 
+[![Github Badge](https://img.shields.io/badge/-pranavmishra90-grey?style=flat&logo=github&logoColor=white&link=https://github.com/pranavmishra90/)](https://www.github.com/pranavmishra90/) [![Twitter Badge](https://img.shields.io/badge/-drpranavmishra-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/drpranavmishra/)](https://www.twitter.com/drpranavmishra/) [![Linkedin Badge](https://img.shields.io/badge/-drpranavmishra-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/drpranavmishra/)](https://www.linkedin.com/in/drpranavmishra/)  
+
+## Verification
 My [PGP public key](./pgp/pranav-mishra-public.key) is available for import / verification. Starting in April 2023, I started signing commits with SSH Keys, on most of my machines. You can view the [SSH public keys](https://github.com/pranavmishra90.keys) I have associated with GitHub.
 
 
