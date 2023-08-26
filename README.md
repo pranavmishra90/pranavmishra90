@@ -1,10 +1,18 @@
 ## Welcome to my GitHub Profile
 
-Visit my personal website at www.drpranavmishra.com
+Visit my personal website at [drpranavmishra.com](https://drpranavmishra.com)
 
-My academic curriculum vitae is written in LaTeX / BibLaTeX and is automatically generated GitHub Actions [pranavmishra90/Curriculum-Vitae_Pranav-Mishra](https://github.com/pranavmishra90/Curriculum-Vitae_Pranav-Mishra) [![Publish LaTeX CV as PDF](https://github.com/pranavmishra90/Curriculum-Vitae_Pranav-Mishra/actions/workflows/save_pdf.yml/badge.svg)](https://github.com/pranavmishra90/Curriculum-Vitae_Pranav-Mishra/actions). You can view the latest version at [Pranav Mishra CV (PDF)](https://github.com/pranavmishra90/Curriculum-Vitae_Pranav-Mishra/raw/pdf/pranav_kumar_mishra_cv.pdf)
+My academic curriculum vitae is written in LaTeX / BibLaTeX and is automatically generated using GitHub Actions at [Curriculum-Vitae_Pranav-Mishra](https://github.com/pranavmishra90/Curriculum-Vitae_Pranav-Mishra). You can view the latest PDF version at [Pranav Mishra CV (PDF)](https://github.com/pranavmishra90/Curriculum-Vitae_Pranav-Mishra/raw/pdf/pranav_kumar_mishra_cv.pdf)
 
-[![Github Badge](https://img.shields.io/badge/-pranavmishra90-grey?style=flat&logo=github&logoColor=white&link=https://github.com/pranavmishra90/)](https://www.github.com/pranavmishra90/) [![Twitter Badge](https://img.shields.io/badge/-drpranavmishra-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/drpranavmishra/)](https://www.twitter.com/drpranavmishra/) [![Linkedin Badge](https://img.shields.io/badge/-drpranavmishra-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/drpranavmishra/)](https://www.linkedin.com/in/drpranavmishra/)  
+[![PDF](https://github.com/pranavmishra90/Curriculum-Vitae_Pranav-Mishra/actions/workflows/save_pdf.yml/badge.svg)](https://github.com/pranavmishra90/Curriculum-Vitae_Pranav-Mishra/actions)
+
+## Connect
+
+[![Github Badge](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/pranavmishra90/badges/main/Pranav/github.json)](https://www.github.com/pranavmishra90/)
+[![Matrix Collaborate](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/pranavmishra90/badges/main/Pranav/connect_matrix.json)](https://matrix.to/#/#collaborate:drpranavmishra.com)
+
+[![Twitter Badge](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/pranavmishra90/badges/main/Pranav/twitter.json)](https://www.twitter.com/drpranavmishra/)
+[![Linkedin Badge](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/pranavmishra90/badges/main/Pranav/linkedin.json)](https://www.linkedin.com/in/drpranavmishra/)  
 
 ## Verification
 My [PGP public key](./pgp/pranav-mishra-public.key) is available for import / verification. Starting in April 2023, I started signing commits with SSH Keys, on most of my machines. You can view the [SSH public keys](https://github.com/pranavmishra90.keys) I have associated with GitHub.
